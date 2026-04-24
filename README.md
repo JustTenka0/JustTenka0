@@ -26,6 +26,6 @@
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=dracula" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=JustTenka0&show_icons=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustTenka0&layout=compact&theme=dracula" height="150" />
 </p>
