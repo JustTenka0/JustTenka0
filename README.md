@@ -1,12 +1,25 @@
 ## Hi there 👋
 
+---
+
+## 🔬 Research Interests
+- 🧬 **Genomics:** Variant calling, de novo assembly, and comparative genomics.
+- 📊 **Data Science:** Statistical modeling of biological systems and Transcriptomics (RNA-Seq).
+- ⚙️ **Workflow Optimization:** Building reproducible pipelines with Nextflow and Snakemake.
 
 ---
 
-# 🛠️ My Toolbox
-### Programming Languages and libraries
-<p align="center">
+## 🛠️ Tech Stack & Bioinformatics Tools
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  </p>, R (Tidyverse, Bioconductor), Bash |
+| **Bio Tools** | BWA, GATK, Samtools, BLAST, Bedtools |
+| **Pipelines** | Nextflow, Snakemake, Docker, Conda |
+| **Analysis** | Jupyter Notebooks, RStudio, HPC (SLURM/PBS) |
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="sklearn logo"  />
@@ -25,7 +38,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vsc logo" />
 </p>
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JustTenka0&show_icons=true&theme=dracula" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustTenka0&layout=compact&theme=dracula" height="150" />
-</p>
