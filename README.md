@@ -14,7 +14,7 @@
 | :--- | :--- |
 | **Languages** | Python<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  </p>, R (Tidyverse, Bioconductor), Bash |
+  , R (Tidyverse, Bioconductor), Bash | </p>
 | **Bio Tools** | BWA, GATK, Samtools, BLAST, Bedtools |
 | **Pipelines** | Nextflow, Snakemake, Docker, Conda |
 | **Analysis** | Jupyter Notebooks, RStudio, HPC (SLURM/PBS) |
