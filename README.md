@@ -24,3 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="40" alt="latex logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vsc logo" />
 </p>
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TUO_USERNAME&show_icons=true&theme=dracula" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO_USERNAME&layout=compact&theme=dracula" height="150" />
+</p>
