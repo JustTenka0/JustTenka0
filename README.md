@@ -1,13 +1,13 @@
 ## Hi there 👋
-
----
+I'm Lorenzo, a MSc student of Bioinformatics for Computational Genomics🧬💻
 
 ## 🔬 Research Interests
+- 🦠🔬 **Oncology:** Understanding the molecular difference between healthy and oncogenic cells.
+- 🧠 **Computational Neuro-Oncology:** Exploring the molecular mechanisms of brain tumors and neurodegenerative disorders.
 - 🧬 **Genomics:** Variant calling, de novo assembly, and comparative genomics.
-- 📊 **Data Science:** Statistical modeling of biological systems and Transcriptomics (RNA-Seq).
-- ⚙️ **Workflow Optimization:** Building reproducible pipelines with Nextflow and Snakemake.
+- 📊 **Data Science:** Statistical modeling of biological systems and Transcriptomics.
 
----
+
 
 ## 🛠️ Tech Stack & Bioinformatics Tools
 <table border="0">
@@ -30,15 +30,6 @@
     </td>
     <td width="30%" align="center">
       <img src="https://img.shields.io/badge/Bio-Tools-blue?style=flat-square&logo=dna&logoColor=white" />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="70%" valign="top">
-      <b>⚙️ Pipelines</b>: Reproducibile workflow development with <b>Nextflow</b> and enviroment management with <b>Docker</b>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://skillicons.dev/icons?i=docker&perline=2" />
     </td>
   </tr>
 
