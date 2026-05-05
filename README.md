@@ -1,11 +1,11 @@
 ## Hi there 👋
-I'm Lorenzo, a MSc student of Bioinformatics for Computational Genomics🧬💻
+I'm Lorenzo, a MSc student of Bioinformatics for Computational Genomics @ PoliMi & UniMi 🧬💻
 
 ## 🔬 Research Interests
-- 🦠🔬 **Oncology:** Understanding the molecular difference between healthy and oncogenic cells.
-- 🧠 **Computational Neuro-Oncology:** Exploring the molecular mechanisms of brain tumors and neurodegenerative disorders.
+- 🦠🔬 **Computational Oncology:** Understanding the molecular difference between healthy and oncogenic cells through computational methods.
+- 🧠 **Computational Neuroscience:** Exploring the molecular mechanisms of brain tumors and neurodegenerative disorders.
 - 🧬 **Genomics:** Variant calling, de novo assembly, and comparative genomics.
-- 📊 **Data Science:** Statistical modeling of biological systems and Transcriptomics.
+- 📊 **Data Science:** Statistical modeling of biological systems, Machine Learning applied to Life Science and Transcriptomics analysis.
 
 
 
